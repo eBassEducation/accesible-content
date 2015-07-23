@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="uid"/>
     <dc:title>About the Textbook Editor</dc:title>
-  </metadata>
+      <dc:language xmlns="" xsi:type="dcterms:RFC4646" xmlns:xsi="http://www.idpf.org/2007/opf">es</dc:language>
+    <meta xmlns="" a0:properties="dcterms:modified" xmlns:a0="http://www.idpf.org/2007/opf">2015-7-22</meta>
+</metadata>
   <manifest>
   <item href="about-the-textbook-editor-26e3e2b5-1fa2-4d26-84c9-641015f4850a-nav.html" id="about-the-textbook-editor-26e3e2b5-1fa2-4d26-84c9-641015f4850a-nav.html" media-type="application/xhtml+xml" properties="nav"/>
   
