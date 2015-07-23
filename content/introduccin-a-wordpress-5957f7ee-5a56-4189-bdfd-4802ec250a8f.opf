@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="uid">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="uid">introduccin-a-wordpress-3d607e0d-3588-423e-83e1-9b8bbf2eb5a1</dc:identifier>
+    <dc:title>Introducción a WordPress</dc:title>
+      <date xmlns="" opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2015-7-22</date>
+</metadata>
+  <manifest><item href="introduccin-a-wordpress-585b8b62-7bf6-4781-961b-78c28f7406f0-nav.html" id="introduccin-a-wordpress-585b8b62-7bf6-4781-961b-78c28f7406f0-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-a937448c-14e0-4ffc-a8fa-ac93ed27233e.html" id="module1-a937448c-14e0-4ffc-a8fa-ac93ed27233e.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-a937448c-14e0-4ffc-a8fa-ac93ed27233e.html"></itemref></spine>
+</package>
