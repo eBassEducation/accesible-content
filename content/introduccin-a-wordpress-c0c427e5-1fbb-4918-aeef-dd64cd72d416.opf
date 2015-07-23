@@ -4,6 +4,10 @@
     <dc:identifier id="uid">introduccin-a-wordpress-59f6991f-4614-4a76-b3f9-b5b9d66ca5ff</dc:identifier>
     <dc:title>Introducción a WordPress</dc:title>
       <date xmlns="" opf:event="publication" xmlns:opf="http://www.idpf.org/2007/opf">2015-7-22</date>
+    <dc:language xmlns="" xsi:type="dcterms:RFC4646" xmlns:xsi="http://www.idpf.org/2007/opf">es</dc:language>
+    <dc:rights xmlns="">Public domain</dc:rights>
+    <meta xmlns="" a0:property="lrmi:useRightsUrl" xmlns:a0="http://www.idpf.org/2007/opf">http://creativecommons.org/publicdomain/</meta>
+    <meta xmlns="" a1:properties="dcterms:modified" xmlns:a1="http://www.idpf.org/2007/opf">2015-7-22</meta>
 </metadata>
   <manifest><item href="introduccin-a-wordpress-fd99679c-02c2-4305-bcb1-c2d61f309567-nav.html" id="introduccin-a-wordpress-fd99679c-02c2-4305-bcb1-c2d61f309567-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-23904f71-abea-4bc1-bc6e-9e82ad351d66.html" id="module1-23904f71-abea-4bc1-bc6e-9e82ad351d66.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
   <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1-23904f71-abea-4bc1-bc6e-9e82ad351d66.html"></itemref></spine>
