@@ -11,6 +11,6 @@
     <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:properties="dcterms:modified">2015-7-22</meta>
     <meta xmlns:ns2403728="http://www.idpf.org/2007/opf" ns2403728:property="dcterms:rightsHolder">eBassEducation</meta>
 </metadata>
-  <manifest><item href="wordpress-46609b1f-61f4-44bb-a04c-de11253546d4-nav.html" id="wordpress-46609b1f-61f4-44bb-a04c-de11253546d4-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-c5f44c05-a1cc-44b4-a922-b0d1bd259b57.html" id="module1-c5f44c05-a1cc-44b4-a922-b0d1bd259b57.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
-  <spine/>
+  <manifest><item href="wordpress-46609b1f-61f4-44bb-a04c-de11253546d4-nav.html" id="wordpress-46609b1f-61f4-44bb-a04c-de11253546d4-nav.html" media-type="application/xhtml+xml" properties="nav"/><item href="module1-c5f44c05-a1cc-44b4-a922-b0d1bd259b57.html" id="module1-c5f44c05-a1cc-44b4-a922-b0d1bd259b57.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="introduccin-812d5c3e-1bf0-4d38-b5da-1d28f61248dc.html" id="introduccin-812d5c3e-1bf0-4d38-b5da-1d28f61248dc.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="introduccin-812d5c3e-1bf0-4d38-b5da-1d28f61248dc.html"></itemref></spine>
 </package>
